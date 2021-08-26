@@ -17,6 +17,6 @@ Model run files are given for:
     
     (3) An M_winter lake-drainage event: nevis_h22222_ubspatial_R67_lakerampM_4tiles_Ks100_s1e6H_repo.m 
     
-All model code is located within the "nevis" directory. To run the model for other sheet permeability (K_s) and englacial void fraction (sigma) parameter values, edit the run file where indicated. Additional information on the nevis model is given in nevis.pdf (written by Ian Hewitt).
+All model code is located within the "nevis" directory. To run the model for other sheet permeability (K_s) and englacial void fraction (sigma) parameter values, edit the run file where indicated. Additional information on running the model is provided in nevis.pdf (written by Ian Hewitt).
 
 Contact LAS with questions (laura.stevens@earth.ox.ac.uk).
