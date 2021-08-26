@@ -11,7 +11,7 @@ Hewitt I., (2013), Seasonal changes in ice sheet motion due to melt water lubric
 
 Model run files are given for:
     
-    (1) A 2007/1–365 run with distributed runoff input: nevis_h22222_ubspatial_R365.m.
+    (1) A 2007/1–365 run: nevis_h22222_ubspatial_R365.m.
     
     (2) An M_229 lake-drainage event run: nevis_h22222_ubspatial_R227_lakerampM_4tiles_Ks100_s1e6H_repo.m
     
