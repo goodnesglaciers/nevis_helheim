@@ -3,7 +3,7 @@ The Hewitt (2013) subglacial hydrology model adapted for Helheim Glacier, East G
 
 Citations:
 
-Stevens, L. A., Nettles, M., Davis, J. L., Creyts, T. C., Kingslake, J., Hewitt, I. J., and A. Stubblefield (2021). High meltwater throughput limits Helheim Glacier response to lake drainage, In review.
+Stevens, L. A., Nettles, M., Davis, J. L., Creyts, T. C., Kingslake, J., Hewitt, I. J., and A. Stubblefield (202?). High meltwater throughput limits Helheim Glacier response to lake drainage, In review.
 
 Stevens, L. A., Hewitt, I., Das, S. B., and Behn, M. D., (2018), Relationship between Greenland Ice Sheet surface speed and modeled effective pressure, Journal of Geophysical Research: Earth Surface, Journal of Geophysical Research: Earth Surface, 123(9), p2258–2278, doi:10.1029/2017JF004581.
 
