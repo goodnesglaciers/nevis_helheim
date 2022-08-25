@@ -5,9 +5,9 @@ Citations:
 
 Stevens, L. A., Nettles, M., Davis, J. L., Creyts, T. C., Kingslake, J., Hewitt, I. J., and A. Stubblefield (2022). Tidewater-glacier response to supraglacial lake drainage, Nature Communications.
 
-Stevens, L. A., Hewitt, I., Das, S. B., and Behn, M. D., (2018), Relationship between Greenland Ice Sheet surface speed and modeled effective pressure, Journal of Geophysical Research: Earth Surface, Journal of Geophysical Research: Earth Surface, 123(9), p2258–2278, doi:10.1029/2017JF004581.
+Stevens, L. A., Hewitt, I., Das, S. B., and M.D. Behn (2018), Relationship between Greenland Ice Sheet surface speed and modeled effective pressure, Journal of Geophysical Research: Earth Surface, Journal of Geophysical Research: Earth Surface, 123(9), p2258–2278, doi:10.1029/2017JF004581.
 
-Hewitt I., (2013), Seasonal changes in ice sheet motion due to melt water lubrication, Earth Planet. Sci. Lett., 371, p16–25, doi:10.1016/j.epsl.2013.04.022.
+Hewitt, I. (2013), Seasonal changes in ice sheet motion due to melt water lubrication, Earth Planet. Sci. Lett., 371, p16–25, doi:10.1016/j.epsl.2013.04.022.
 
 Model run files are given for:
     
