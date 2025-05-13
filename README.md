@@ -1,4 +1,4 @@
-# nevis_helheim
+# nevis_helheim (_Stevens et al.,_ 2022)
 The Hewitt (2013) subglacial hydrology model adapted for Helheim Glacier, East Greenland.
 
 Citations:
